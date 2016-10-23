@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image</key>
+		<string>Events</string>
+		<key>type</key>
+		<string>Free</string>
+		<key>location</key>
+		<string>Electronic City</string>
+		<key>title</key>
+		<string>Italian carnival</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>NewEvent</string>
+		<key>type</key>
+		<string>Free</string>
+		<key>location</key>
+		<string>MG Road</string>
+		<key>title</key>
+		<string>Impressions &amp; Expressions</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>NewEvent</string>
+		<key>type</key>
+		<string>Free</string>
+		<key>location</key>
+		<string>Indiranagar</string>
+		<key>title</key>
+		<string>Summer workshop</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Events</string>
+		<key>type</key>
+		<string>Paid</string>
+		<key>location</key>
+		<string>Whitefield</string>
+		<key>title</key>
+		<string>Barbecue Fridays</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Events</string>
+		<key>type</key>
+		<string>Paid</string>
+		<key>location</key>
+		<string>Sarjapur Road</string>
+		<key>title</key>
+		<string>Rock and Roll nights</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>NewEvent</string>
+		<key>type</key>
+		<string>Paid</string>
+		<key>location</key>
+		<string>Kumara Park</string>
+		<key>title</key>
+		<string>Summer Noon Party</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>NewEvent</string>
+		<key>type</key>
+		<string>Paid</string>
+		<key>location</key>
+		<string>Kanteerava Indoor Stadium</string>
+		<key>title</key>
+		<string>Startups Meet</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Events</string>
+		<key>type</key>
+		<string>Paid</string>
+		<key>location</key>
+		<string>Links Brewery</string>
+		<key>title</key>
+		<string>Wine tasting event</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>Events</string>
+		<key>type</key>
+		<string>Paid</string>
+		<key>location</key>
+		<string>Palace Grounds</string>
+		<key>title</key>
+		<string>Metallica Concert</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>NewEvent</string>
+		<key>type</key>
+		<string>Free</string>
+		<key>location</key>
+		<string>Malleswaram Grounds</string>
+		<key>title</key>
+		<string>Saree Exhibition</string>
+	</dict>
+</array>
+</plist>
